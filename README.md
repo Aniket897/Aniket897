@@ -8,7 +8,7 @@
 👨‍💻 All of my projects are available at https://aniket-kangane.vercel.app/<br><br>
 💬 Ask me about reactJs nodejs expressJs<br><br>
 📫 How to reach me aniketbkangane9637@gmail.com<br><br>
-📄 Know about my experiences [https://drive.google.com/file/d/1Oa4ZtRlLyCFHyLRpwOwwuVyzsG5hlISj/view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=664b11045e3611707b814fc6)
+📄 Know about my experiences [https://drive.google.com/file/d/1xnQeFgpcqD-hCb1QGNOTIRVuneFNN9pl/view?usp=sharing](https://drive.google.com/file/d/1xnQeFgpcqD-hCb1QGNOTIRVuneFNN9pl/view?usp=sharing)
 
 
 ## 🌐 Socials:
