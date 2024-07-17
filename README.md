@@ -1,7 +1,7 @@
-
-
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1 align="center">Hi My name is Aniket Kangane</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aniket Kangane</h1>
+======================================================================================================================================
+<h3 align="center">A passionate frontend developer from India</h3>
+--------------------------------------------
 
 
 # 💫 About Me:
